@@ -2,9 +2,7 @@
  <h1 align="center">QuickDraw</h1>
 </p>
 
-[![GitHub stars](https://img.shields.io/github/stars/uvipen/QuickDraw)](https://github.com/uvipen/QuickDraw/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/uvipen/QuickDraw?color=orange)](https://github.com/uvipen/QuickDraw/network)
-[![GitHub license](https://img.shields.io/github/license/uvipen/QuickDraw)](https://github.com/uvipen/QuickDraw/blob/master/LICENSE)
+
 
 ## Introduction
 
@@ -15,10 +13,7 @@ Here is my python source code for QuickDraw - an online game developed by google
 ## Camera app
 In order to use this app, you need a pen (or any object) with blue, red or green color. When the pen (object) appears in front of camera, it will be catched and highlighted by an yellow circle. When you are ready for drawing, you need to press **space** button. When you want to stop drawing, press **space** again
 Below is the demo by running the sript **camera_app.py**:
-<p align="center">
-  <img src="demo/quickdraw.gif" width=600><br/>
-  <i>Camera app demo</i>
-</p>
+
 
 ## Drawing app
 The script and demo will be released soon
